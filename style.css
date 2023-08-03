@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+#myText{
+    background-color: #ffffff;
+    font-weight: bolder !important;
+    margin-top: 40px !important;
+    padding:10px !important ;
+    border-radius: 5px;
+    width: 100% !important;
+
+}
+img{
+    height: 500px;
+    border-radius: 10px;
+    width:100%;
+    margin-top: 30px;
+}
